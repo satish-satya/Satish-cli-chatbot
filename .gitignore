@@ -1,0 +1,7 @@
+# Never commit your API keys
+.env
+
+# Virtual environment
+/satyaenv
+
+__pycache__/
